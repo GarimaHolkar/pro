@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    border:0px;
+    font-family: 'ROBOTO', sans-serif;
+}
+ul,li{
+    text-decoration: none;
+    display: inline-block;
+}
+header{
+    height:50px;
+    width:100%;
+    border:1px solid black;
+    background:rgb(211, 3, 3);
+}
+.left{
+    height:50px;
+    width:18%;
+    border:1px solid green;
+}
+#zo{
+    color:white;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    margin-top:5%;
+}
+.ts-text{
+    color:white;
+    font-size: 18px;
+    
+    float:right;
+}
+.right{
+    height:50px;
+    width:40%;
+    float:right;
+}
