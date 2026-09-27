@@ -1,0 +1,33 @@
+# Pro
+
+A simple static web page inspired by the Zomato homepage, built using HTML and CSS.
+
+## Overview
+
+This project contains a minimal landing page with:
+- a branded red header
+- a "ZOMATO" logo label
+- a "Get App" link
+- a clean, responsive static layout
+
+## Project Structure
+
+- `home.html` — main page structure
+- `home.css` — styling for the page
+- `app.html` — linked destination for the "Get App" navigation
+- `zomato logo.png` — branding asset used in the project
+
+## Features
+
+- Static HTML/CSS implementation
+- Lightweight and easy to run locally
+- No framework or package installation required
+
+## Running the Project
+
+Because this is a static site, you can open `home.html` directly in a browser.
+
+Alternatively, run a local server from the repository root:
+
+```bash
+python -m http.server 8000
